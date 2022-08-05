@@ -1,6 +1,6 @@
 # Detectron2_strawberry_detection
 Detectron2를 이용한 Strawberry flower object detection
-<hr>
+
 # Detectron2
  <a href "https://github.com/facebookresearch/detectron2" > Detectron2 </a>
 # Material & Method
