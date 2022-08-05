@@ -2,7 +2,8 @@
 Detectron2를 이용한 Strawberry flower object detection
 
 # Detectron2
- <a href "https://github.com/facebookresearch/detectron2" > Detectron2 </a>
+ <a href "https://github.com/facebookresearch/detectron2" text = "Detecton2" > Detectron2 </a>
+ 
 # Material & Method
 # Data
  Total 1954 images (Strawberry Closeup)
